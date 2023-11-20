@@ -1,0 +1,9 @@
+{
+   "name": "com.jammymachine.savesystem",
+   "version": "0.0.1",
+   "displayName": "Jammy Save System",
+   "description": "Package to provide a simple framework for versioned saving.",
+   "dependencies": { },
+   "gitDependencies":  { },
+   "gitURL" : "https://github.com/jgmcadam/JammyMachineSaveSystem.git"
+}
